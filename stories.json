@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "The Sleepy Little Koala",
+    "category": "Calming",
+    "reading_time_minutes": 5,
+    "cover_url": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?w=600",
+    "content": "Once upon a time, deep in the quiet eucalyptus forests of Australia, lived a small koala named Kiki. While all the other animals were awake playing, Kiki loved to watch the silver moon rise..."
+  },
+  {
+    "id": 2,
+    "title": "The Star That Forgot How to Shine",
+    "category": "Bedtime",
+    "reading_time_minutes": 7,
+    "cover_url": "https://images.unsplash.com/photo-1538370965046-79c0d6907d47?w=600",
+    "content": "High up in the midnight sky, there was a tiny silver star named Twinkle. Tonight, Twinkle felt a bit tired, and her glow was dim. But her friend Mr. Moon whispered a secret into the evening breeze..."
+  },
+  {
+    "id": 3,
+    "title": "The Brave Little Kangaroo",
+    "category": "Adventure",
+    "reading_time_minutes": 6,
+    "cover_url": "https://images.unsplash.com/photo-1517451330947-7809dead78d5?w=600",
+    "content": "Joey was a tiny kangaroo with huge boots and an even bigger heart. Tonight, he was going on a grand quest across the grassy plains to find the legendary blanket of sweet dreams..."
+  }
+]
